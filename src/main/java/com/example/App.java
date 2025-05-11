@@ -13,7 +13,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        String fruits = "{apple,manago,orange}" 
+        String fruits = "{apple,manago,orange}" ;
         System.out.println(fruits);
         
         // Define source and destination files
